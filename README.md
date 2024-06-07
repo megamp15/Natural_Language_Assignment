@@ -6,6 +6,10 @@
 
 This project is blah...
 
+##### Dataset: 
+
+https://huggingface.co/datasets/FareedKhan/1k_stories_100_genre/tree/main
+
 ## How to run the code
 
 1. Install Python. I used version 11.9
