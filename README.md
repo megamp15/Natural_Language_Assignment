@@ -6,11 +6,18 @@
 
 This project is blah...
 
-##### Dataset: 
+## Models:
 
-https://huggingface.co/datasets/FareedKhan/1k_stories_100_genre/tree/main
+* [https://huggingface.co/KnutJaegersberg/gpt2-chatbot](https://huggingface.co/KnutJaegersberg/gpt2-chatbot)
+* [https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
+* [https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)
+* [https://huggingface.co/mosaicml/mpt-7b-instruct](https://huggingface.co/mosaicml/mpt-7b-instruct)
+* [https://huggingface.co/mosaicml/mpt-7b-storywriter](https://huggingface.co/mosaicml/mpt-7b-storywriter)
+* [https://huggingface.co/Blackroot/Nous-Hermes-Llama2-13b-Storywriter-GPTQ](https://huggingface.co/Blackroot/Nous-Hermes-Llama2-13b-Storywriter-GPTQ)
+* [https://huggingface.co/Blackroot/Chronos-Hermes-2-Storywriter](https://huggingface.co/Blackroot/Chronos-Hermes-2-Storywriter)
+* [https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA](https://huggingface.co/Blackroot/Llama-2-13B-Storywriter-LORA)
 
-## How to run the code
+##### How to run the code
 
 1. Install Python. I used version 11.9
 2. Create a virtual env: `python3.11 -m venv .venv`
