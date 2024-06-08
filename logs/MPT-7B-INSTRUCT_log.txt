@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: MPT-7B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 512, 'temperature': 0.6, 'repetition_penalty': 2.0, 'no_repeat_ngram_size': 1}
+Response:
+ You are a AI writer who creates stories in various genres. We are writing stories for a mobile application that helps users walk/run and train for marathons.  
+The genre and description will come by user input called Prompt.
+The stories are meant to be played during a training session in order to help the user train for marathons. 
+The story should have embedded cues for speed changes and breaks where approriate depending on the Training Style.
+
+### Instruction:
+Can you help me write a story with the following details:Prompt: A zombie horror story set in New York City.
+Distance: 0.5 miles
+Average Walking Speed: 2 mph
+Average Running Speed: 5 mph
+Training Style: Short-distance sprint 
+
+
+### Response:
+Here is one possible draft of your requested short narrative, which I hope provides an interesting reading experience while also serving as useful guidance towards achieving desired fitness goals through regular exercise practice! The main characters here include two young adults from contrasting backgrounds - namely our protagonist 'Alex', whose privileged upbringing has afforded him many advantages throughout life but left his mental health somewhat fragile; alongside her best friend / roommate Emily whom Alex meets whilst attending college at NYU after being rescued amidst chaos & destruction caused across muchof Manhattan dueto recent outbreak or undead virus infection spreading rapidly amongst local population... 
+   As they struggle together against overwhelming odds both physically (in terms fo their efforts t survive hunger& thirst)and mentally(as each must confront fears about personal safety), it becomes clear how important friendship can trulybe when facing such adversity -- especially since neither character possesses any prior combat skills nor relevant survival knowledge beyond what little was taught within limited educational resources available post initial crisis onset several months earlier... As time passes howeverboth begin adapting welltotheir new environment via trial error learning process aided greatlyby resourceful use offound objects around them including abandoned vehicles etc., leading eventuallytowards eventual rescuefrom increasingly hostile surrounding zombies forces led b y ruthless military units sent intocontainment zone areas near city limits! Despite these challenges faced along way,the true triumph lies not onlywithin overcoming obstacles encounteredbut rather discovering inner strength neededfor successful adaptation intonew surroundings under extreme duress!! This inspiring tale demonstrateshow even seemingly hopeless situations may ultimately lead toward positive outcomes ifone remains resilient enough despite difficult circumstances!! Enjoy this exciting adventure filledwith thrills suspense action drama romance humor tragedy terror excitement!!! Mayit inspireyou furtheronyour own journey'sthroughlife :)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

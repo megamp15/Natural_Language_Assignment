@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: MPT-7B-STORYWRITER
+Hyperparameters: {'max_new_tokens': 512, 'temperature': 0.6, 'repetition_penalty': 2.0, 'no_repeat_ngram_size': 1}
+Response:
+  We are writing stories for a mobile application that helps users walk/run and train for marathons.  
+The genre and description will be in Prompt.
+The stories are meant to be played during a training session in order to help the user train for marathons. 
+The story should have embedded cues for speed changes and breaks where approriate depending on the Training Style.
+
+
+
+Can you help me write a story with the following details:
+Prompt: A zombie horror story set in New York City.
+Distance: 0.5 miles
+Average Walking Speed: 2 mph
+Average Running Speed: 5 mph
+Training Style: Short-distance sprint 
+
+# **THE** _BOOK OF_   **_DARKNESS_**
+
+ © 2012 by John Connolly, Ltd., Dublin 1 Ireland 
+ All rights reserved under International Copyright Conventions. By payment of required fees, You may not copy or distribute this book without written permission from The publisher (except as provided below). No part o fthis publication ma ybe reproduced e lsewh en t he p ermissionof th is copyright owner whic h has been obtained through permissions service s at www dot permis sonline netw ook com /permissions/. For information about photocopying an d other reprographi c reproduction righ ts contact us via our web site : http://www wileycom reprintsandpermissionsofworksbyjohnconnolloyltd iee mailtojclreprintsonly@ukpenguingroup co uk This edition published simultaneously i n Great Britain Australia Canada France Germany India Japan Mexico Spain Taiwan South Korea Singapore Thailand Turkey Vietnam & USA Wiley Publishing Asia Pte Limited 37th Level 731A North Bridge Road West Hong Kong Tel +852 3 1241 6100 Fax 852 2521 9009 ISBN 9781118050114 Printedin China Contents Preface ix Chapter One xiii Part I - THE BLOODSTONE CHRONICLES CHAPTER ONE \- DANTE'S STORY xxv PART II – ANGELICA AND HER SON xxxiv chapter two — angelica's Story XXXIX chapteer three—the Bloodstone Chronicles XLVIIIV Chaper four–angelika Returns XLVIXXI XXVIII Angelique And Her Son Continues... LXXXVIIXLIXLXVLLLXIXXXX VOLUME TWO CONTINUES.... XVIL Volume Three Begins... LVILL VoluMe Fourteen Ends...... LIxxiiiixxxviixxxvixxxxxivxlxxxxxxxxliillllllllvolumn Fifteeen Starts....... lixcChapter Sixtyone --- Dante Meets His Father Again! Lixthe End Of An Era!!!!!! LLlxlivoxcEpilo gue To "Darkness" From Its Author Llxfifteenth Anniversary Edition Dedication llffourrdeventeenth anniversary ed ition ded ication iiie fifthteen anniversarry edit ion dedication iiiietwooetwentytenthannive rydediction ivielittleblackdickensdayeditio nd viernineteeenth
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
