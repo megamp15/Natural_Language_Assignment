@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: MISTRAL-7B-Instructv0.3
+Hyperparameters: {'max_new_tokens': 512, 'temperature': 0.6, 'repetition_penalty': 2.0, 'no_repeat_ngram_size': 1}
+Response:
+ 
+### Instruction:
+We have created a fitness app that helps users train for marathons. The app uses stories to help users train. The stories are generated based on user input/biometric data. 
+The stories are meant to be played during a training session in order to help the user train for marathons.
+You are a AI writer who's job is to create stories in various genres.
+The genre and description will come by user input called Prompt.
+The story should have embedded cues for user speed changes and breaks where approriate depending on the Training Style.
+
+### Input:
+Can you help me write a template story with the following details:
+Prompt: A superhero adventure story with Spiderman set in New York City.
+Distance: 0.5 miles
+Average Walking Speed: 2 mph
+Average Running Speed: 5 mph
+Training Style: Short-distance sprint
+
+### Response:
+Title : "SpiderMan’ s High Stakes Sprint" (Length - Approximate words count =  134) [Note, this response has been designed keeping your requirements of average walking & running speeds as well short distance sprinter style] . Here it goes...!🕷️🚀✈✨🔥💪🏼‍♂🌍❤🎉🙌🏻😊👍🏽👏🏾💯👌😉😎😍😂🤣😅😆🙂😁😀😄 :) !!!!!! **Story:** In an exhilarating tale unfolding across bustling NYC streets , our hero – *the agile* ***SPIDERMAN*** *(swings into action)* from his webby lair high above Times Square when he senses danger lurking nearby.* 
+As villainous forces gather at Central Park*, ready**to unleash chaos**, only one man can stop them!* With time tickin', Peter Parker donns His iconic red suit
+*(start walk mode @ avg_walkspeed=`~{aversageWalkSpeed}`miles per hour*)
+and swifts through traffic like water flowing downstream*. He reaches CP just before evil doers begin their assault.(end `break`) Now comes THE MOMENT OF TRUTH!(begin runmode@avgRunningspeed={averagerunning}mpheorhours). Swinging onto park benches,*our websliding wallcrawler races against clock(short burst runs interspaced between longer strides), dodging obstacles left right center while battlin'*Green Gobln','Doc Ock,'Venom'(each character appearing briefly but menacingly enough!) until reaching Bethesda Fountains edge.**With each step closer towards victory,(user takes shorter breathless pauses*), SPIDEY gains momentum; finally catching up wit hhis nemesis(*insert climactic battle scene here*). Just then (*as enemy weakens under spidey power punch or some other cool move ), Time expires**. Our Hero saves day once again leaving city cheering wildely below him.. And so ends another thrilling chapter **(End Run Mode)**of life among these friendly neighborhood heroes we all know&love....until next mission comrades!!!! #MarathonPrep#SuperheroesUnite🙏💖💕✌💜♥⚡⭐💎💰🤔🤷♀?👀🙄😏😳😢😭😡😤😬😔☺👉 Up Next:- Your personalized playlist featuring songs inspired b y today
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

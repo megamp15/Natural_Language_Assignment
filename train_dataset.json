@@ -1,0 +1,188 @@
+[
+  {
+    "distance": 0.5,
+    "speed": 2,
+    "training_style": "Short-distance Walk",
+    "expected_token_count": 200
+  },
+  {
+    "distance": 0.3,
+    "speed": 7,
+    "training_style": "Short-distance Sprint",
+    "expected_token_count": 250
+  },
+  {
+    "distance": 1,
+    "speed": 3,
+    "training_style": "Long-distance Walk",
+    "expected_token_count": 300
+  },
+  {
+    "distance": 0.8,
+    "speed": 2,
+    "training_style": "Short-distance Walk",
+    "expected_token_count": 220
+  },
+  {
+    "distance": 2,
+    "speed": 6,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 400
+  },
+  {
+    "distance": 0.3,
+    "speed": 8,
+    "training_style": "Short-distance Sprint",
+    "expected_token_count": 240
+  },
+  {
+    "distance": 1.5,
+    "speed": 5,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 350
+  },
+  {
+    "distance": 0.7,
+    "speed": 2.5,
+    "training_style": "Short-distance Walk",
+    "expected_token_count": 230
+  },
+  {
+    "distance": 1,
+    "speed": 4,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 300
+  },
+  {
+    "distance": 0.4,
+    "speed": 7.5,
+    "training_style": "Short-distance Sprint",
+    "expected_token_count": 260
+  },
+  {
+    "distance": 26.2,
+    "speed": 6,
+    "training_style": "Marathon",
+    "expected_token_count": 1000
+  },
+  {
+    "distance": 50,
+    "speed": 5,
+    "training_style": "Marathon",
+    "expected_token_count": 1200
+  },
+  {
+    "distance": 20,
+    "speed": 6,
+    "training_style": "Marathon",
+    "expected_token_count": 900
+  },
+  {
+    "distance": 10,
+    "speed": 3,
+    "training_style": "Long-distance Walk",
+    "expected_token_count": 700
+  },
+  {
+    "distance": 13.1,
+    "speed": 7,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 850
+  },
+  {
+    "distance": 5,
+    "speed": 3.5,
+    "training_style": "Long-distance Walk",
+    "expected_token_count": 500
+  },
+  {
+    "distance": 4,
+    "speed": 6,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 450
+  },
+  {
+    "distance": 3,
+    "speed": 7,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 400
+  },
+  {
+    "distance": 0.6,
+    "speed": 8,
+    "training_style": "Short-distance Sprint",
+    "expected_token_count": 280
+  },
+  {
+    "distance": 8,
+    "speed": 4,
+    "training_style": "Long-distance Walk",
+    "expected_token_count": 600
+  },
+  {
+    "distance": 15,
+    "speed": 5,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 750
+  },
+  {
+    "distance": 12,
+    "speed": 6,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 650
+  },
+  {
+    "distance": 0.2,
+    "speed": 9,
+    "training_style": "Short-distance Sprint",
+    "expected_token_count": 220
+  },
+  {
+    "distance": 6,
+    "speed": 5,
+    "training_style": "Long-distance Run",
+    "expected_token_count": 550
+  },
+  {
+    "distance": 0.1,
+    "speed": 8,
+    "training_style": "Short-distance Sprint",
+    "expected_token_count": 200
+  },
+  {
+    "distance": 0.9,
+    "speed": 2.5,
+    "training_style": "Short-distance Walk",
+    "expected_token_count": 240
+  },
+  {
+    "distance": 30,
+    "speed": 5,
+    "training_style": "Marathon",
+    "expected_token_count": 1100
+  },
+  {
+    "distance": 40,
+    "speed": 4,
+    "training_style": "Marathon",
+    "expected_token_count": 1150
+  },
+  {
+    "distance": 0.5,
+    "speed": 3,
+    "training_style": "Short-distance Walk",
+    "expected_token_count": 230
+  },
+  {
+    "distance": 0.7,
+    "speed": 7,
+    "training_style": "Short-distance Sprint",
+    "expected_token_count": 270
+  },
+  {
+    "distance": 18,
+    "speed": 6,
+    "training_style": "Marathon",
+    "expected_token_count": 850
+  }
+]

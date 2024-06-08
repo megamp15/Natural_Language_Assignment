@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: LLAMA3_JUDGE
+Hyperparameters: {'max_new_tokens': 256, 'temperature': 0.6, 'top_p': 0.9, 'do_sample': True}
+Response:
+ I'll rate each criterion separately and then average the scores to give an overall score.
+
+**Prompt (20 points):**
+The prompt is creative and engaging, setting the scene for a thrilling zombie horror story. The use of vivid descriptions and imagery helps to immerse the user in the narrative. Score: 18/20
+
+**Distance (20 points):**
+The distance of 0.5 miles is accurately reflected in the story, with a clear separation between the initial sprint and the subsequent break. Score: 19/20
+
+**Average Walking Speed (20 points):**
+The story does not explicitly mention walking speed, but the initial sprint is described as "breakneck speeds" which is consistent with a higher running speed. However, the story does not account for the average walking speed of 2 mph. Score: 12/20
+
+**Average Running Speed (20 points):**
+The initial sprint is described as "breakneck speeds" which is consistent with a higher running speed, and the subsequent break allows the user to recover before resuming at a higher intensity. Score: 18/20
+
+**Training Style (20 points):**
+The story accurately reflects the short-distance sprint training style, with a clear emphasis on speed and intensity. The inclusion of a break
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

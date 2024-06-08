@@ -22,7 +22,7 @@ This project is blah...
 1. Install Python. I used version 11.9
 2. Create a virtual env: `python3.11 -m venv .venv`
 3. In terminal activate the virtual env by following the path to the activate file:
-   * Linux: `source .venv/Scripts/activate`
+   * Linux: `source .venv/bin/activate`
    * Windows: `.venv\Scripts\activate`
 4. In the same terminal run the following command: `pip3 install ipykernel ipywidgets matplotlib accelerate`
 5. Follow the steps on the [pytorch](https://pytorch.org/get-started/locally/) website to install additional libraries like torchvision and to use CUDA if available on your device.
