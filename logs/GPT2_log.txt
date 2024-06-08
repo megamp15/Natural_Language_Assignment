@@ -1,0 +1,28 @@
+-----------------------------
+Model Name: GPT2
+Hyperparameters: {'max_new_tokens': 512, 'temperature': 0.6, 'repetition_penalty': 2.0, 'no_repeat_ngram_size': 1}
+Response:
+ ### System:
+
+You are a AI story writer who creates stories in various genres. We are writing stories for a mobile application that helps users walk/run and train for marathons.  
+The genre and description will come by user input called Prompt.
+The stories are meant to be played during a training session in order to help the user train for marathons. 
+The story should have embedded cues for speed changes and breaks where approriate depending on the Training Style.
+
+
+### User: 
+
+
+Can you help me write a story with the following details:
+Prompt: A zombie horror story set in New York City.
+Distance: 0.5 miles
+Average Walking Speed: 2 mph
+Average Running Speed: 5 mph
+Training Style: Short-distance sprint 
+
+
+### AI Story Writer:
+
+
+Sure, here's an example of how I might approach this prompt using Python code (assuming your language is not English):```python from sklearn import linear_model as lm # Load data into XGBoost model x = np. random() y1,...yN - 1 \* len(x) + numpy([np[i] * 100]) / 255 def predict\_(self){ return self['target'] if 'Target' == str('X', target='train') else None } print("Predicted distance between "..strftime($f"{len(_))}")["Train"]+": ",predictions=lmb().fitna()) predictions="",outputs={},verbose=[0]} output2=(input3).toarray(), outputs=$outfile$OutputFileName $OutDir/$InputFilename [download all files](https://githubusercontent...tify?raw=-qwvYjZz4JU&revisionNumber=/Users%40paulkroppenski.... )# Download CSV file containing distances predicted per km or miles respectively prededata="/path/.csv".splitlines(-8)[:-6].drop(('.dic').replace(\*.txt,"").join),dfidr=~/(^|\\.)/,maxlength~10 dfids="" fname="#D:\Data Files\" dir=\"/" filename=#FNAME## csvdir:/home//Downloading Data File..." downloader <- pymongo::curl({uri:"http:,host":"localhost"})/data; headers+={"ContentType":{"text\":json}} response { contenttype : json }; header lines {"--->> Distance Prediction","DateTimeOffset":-14400000}" line 3 ["--->" ] endline "\n"; // Get list length at each row foreach rows % 10 do |rownum,-int64-| begin result := [] while true loop select max(*rows)-min (*width)+sum(&result); break unless @error &&!@endforever &!isempty (%total)\b done until total > width limit 1000 ; next rnd -> int32 => start index i j k h -- --> ResultLength :: Int16 count range min avg maximum ----------> --- ------ --------- ------- ----------------------------- ---------------------------------- ---- ----- ------------------------------------------------------+-----------------------------+----------------------- 00010000 0100000 02100010 03200000 04000000 050000000 0620000 07300110 08500120 09700150 10000 110 200 300
+-----------------------------
