@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 512, 'temperature': 0.6, 'top_p': 0.9, 'do_sample': True}
+Response:
+ Here's an action-packed adventure story based on Indiana Jones for a 13.1-mile half-marathon training session with a half-marathon training style.
+
+**Story: "The Quest for the Golden Idol"**
+
+You're an archaeologist on a mission to uncover the secrets of a long-lost civilization. Your guide, a local expert named Juan, leads you deep into the jungle, where you're searching for the fabled Golden Idol. Legend has it that the idol holds the key to unlocking the secrets of the ancient ruins.
+
+As you trek through the dense foliage, you hear the distant rumble of a waterfall. Juan warns you to stay close, as the path ahead is treacherous. Suddenly, the ground gives way beneath your feet, and you find yourself sliding down a steep incline.
+
+**Cue: Walk for 0.5 miles**
+
+You slide to a stop, shaken but unharmed. Juan helps you up, and you continue on your quest. As you round a bend, you spot a clearing, and in the center, you see the entrance to an ancient temple.
+
+You enter the temple, and Juan warns you to be careful, as the ancient civilization was known for their deadly traps. You navigate through the temple, avoiding pitfalls and swinging pendulums.
+
+**Cue: Run for 1.5 miles**
+
+As you near the inner sanctum, you hear the sound of footsteps behind you. You turn to see a rival treasure hunter, Dr. Sophia Patel, and her henchmen, hot on your heels. You know you need to move fast to outrun them.
+
+You sprint through the temple, dodging traps and leaping over obstacles. Sophia and her henchmen are closing in, but you manage to stay ahead.
+
+**Cue: Run for 2.5 miles**
+
+You burst out of the temple, and Juan helps you navigate through the jungle. You can hear Sophia's team closing in, but you know you're getting closer to the Golden Idol.
+
+As you emerge from the jungle, you see the ruins of an ancient city in the distance. You can see the Golden Idol perched atop a pedestal, surrounded by a moat of fire.
+
+**Cue: Walk for 1 mile**
+
+You approach the ruins cautiously, knowing that the idol is guarded by the villainous Dr. Patel. You can see her and her henchmen waiting for you, armed to the teeth.
+
+You know you need to come up with a plan to outsmart them. Juan whispers
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 1000, 'temperature': 0.6, 'top_p': 0.9, 'do_sample': True}
+Response:
+ I apologize for the truncation. Here is the continuation of the story, within the new 1000-token limit:
+
+You know you need to come up with a plan to outsmart them. Juan whispers a plan in your ear, and you nod, ready to put it into action.
+
+**Cue: Run for 1.5 miles**
+
+You make a break for the pedestal, dodging Sophia's henchmen as you go. Juan provides cover fire, taking down several of the henchmen with his trusty rifle.
+
+As you reach the pedestal, you see that it's surrounded by a ring of fire. You know you need to get the idol without getting burned.
+
+**Cue: Walk for 0.5 miles**
+
+You carefully make your way around the ring of fire, using your knowledge of ancient civilizations to find a weakness in the ancient mechanism. You trigger a hidden switch, and the pedestal begins to glow.
+
+Sophia appears, her eyes blazing with anger. "You'll never get away with this!" she screams.
+
+**Cue: Run for 2 miles**
+
+You grab the Golden Idol and make a run for it, Sophia and her henchmen hot on your heels. You can hear the sound of the temple collapsing behind you, and you know you need to move fast.
+
+You burst out of the ruins, the idol clutched tightly in your hand. You can see the jungle stretching out before you, and you know you need to put as much distance between yourself and Sophia as possible.
+
+**Cue: Walk for 1.5 miles**
+
+You slow to a walk, catching your breath and looking back over your shoulder. Sophia is nowhere to be seen, but you know she'll be back. You've got the Golden Idol, and you're not going to let her get her hands on it.
+
+You continue on your journey, the idol safely in hand. You know that this is just the beginning of your adventure, and you're ready for whatever comes next.
+
+**Cue: Walk for the final 1.1 miles**
+
+You walk in silence, the only sound the rustling of the jungle and the beating of your heart. You know that you've accomplished something amazing, and you're proud of yourself.
+
+As you emerge from the jungle, you see the sun setting in the distance. You know that you've got a long way to go, but you're ready for the challenge.
+
+Congratulations, you've completed your 13.1-mile half-marathon training session!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

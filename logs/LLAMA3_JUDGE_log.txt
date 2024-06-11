@@ -19,3 +19,19 @@ The initial sprint is described as "breakneck speeds" which is consistent with a
 **Training Style (20 points):**
 The story accurately reflects the short-distance sprint training style, with a clear emphasis on speed and intensity. The inclusion of a break
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: LLAMA3_JUDGE
+Hyperparameters: {'max_new_tokens': 256, 'temperature': 0.6, 'top_p': 0.9, 'do_sample': True}
+Response:
+ I will critique the output based on the given criteria.
+
+**Prompt:** The story starts with the prompt, but it quickly diverges from the adventure story based on Indiana Jones, and instead becomes a chaotic mix of action scenes, trap escapes, and fight sequences. The story fails to incorporate the treasure hunter and the villain, and the jungle and ancient ruins settings are not fully utilized. Score: 20/50
+
+**Distance:** The story is approximately 13.1 miles long, which matches the given distance. Score: 50/50
+
+**Average Walking Speed:** The story includes walking scenes, but it does not provide clear cues for walking speed changes. The average walking speed is not consistently maintained, and the story jumps between walking and running without clear transitions. Score: 30/50
+
+**Average Running Speed:** The story includes running scenes, and the average running speed is occasionally mentioned (e.g., "RUNRUN THIS ALL MAKEFULL COMMENT REGIONAL START MUSIC?????"). However, the running speed is not consistently maintained, and the story jumps between walking and running without clear transitions. Score: 40/50
+
+**Training Style:** The story includes elements of endurance running, but it also includes anaerobic sprints and walking scenes. The training style
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
