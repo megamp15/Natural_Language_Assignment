@@ -74,3 +74,71 @@ As you emerge from the jungle, you see the sun setting in the distance. You know
 
 Congratulations, you've completed your 13.1-mile half-marathon training session!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 512, 'temperature': 0.6, 'top_p': 0.9, 'do_sample': True}
+Response:
+ Here's a spine-chilling zombie horror story for you:
+
+---
+
+The world had ended in a matter of days. The virus, known as the "Reanimate," had spread rapidly, turning millions into mindless, flesh-eating monsters. I was one of the lucky few who had managed to survive the initial outbreak. But survival was far from easy.
+
+As I walked through the desolate countryside, the silence was oppressive. The only sounds were the rustling of leaves and the distant moans of the undead. I had been searching for days, weeks maybe, for a rumored safe haven. A place where I could start anew, free from the constant threat of being devoured.
+
+I quickened my pace, my heart racing with every snap of a twig or creak of a tree branch. I had to be careful. The Reanimate were attracted to noise, and I didn't want to become their next meal.
+
+**Sprint** (0.25 miles, 5 mph)
+
+As I crested a small hill, I spotted a horde of zombies shambling towards me. My heart racing, I sprinted down the other side, my feet pounding the earth. I could hear their guttural moans growing louder, and I knew I had to keep moving.
+
+I reached the bottom of the hill and turned a sharp corner, my eyes scanning the horizon for any sign of safety. That's when I saw it - a dilapidated gas station, its sign creaking in the wind.
+
+**Jog** (0.25 miles, 2.5 mph)
+
+I slowed to a jog, my breathing heavy, as I approached the gas station. I could hear the zombies closing in, their footsteps echoing off the buildings. I burst through the door, slamming it shut behind me, and leaned against it to catch my breath.
+
+The gas station was a mess, but it looked like it hadn't been looted yet. I spotted a small office in the back, and I made my way towards it. Inside, I found a cache of supplies - food, water, and a first-aid kit.
+
+**Break** (0.1 miles, walking pace)
+
+I took a moment to rest, eating a energy bar and drinking some water. I knew I couldn't stay here for long, but for now, it was a safe haven.
+
+As I sat there, I heard the distant rumble of engines. I froze, my heart racing. Was it a rescue team? Or something worse?
+
+**Sprint
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 1000, 'temperature': 0.6, 'top_p': 0.9, 'do_sample': True}
+Response:
+ Here's a spine-chilling zombie horror story for you:
+
+---
+
+The world had ended in a matter of days. The virus, known as the "Reanimate," had spread rapidly, turning millions into mindless, flesh-eating monsters. I was one of the lucky few who had managed to survive the initial outbreak. But survival was far from easy.
+
+As I walked through the desolate countryside, the silence was oppressive. The only sounds were the rustling of leaves and the distant moans of the undead. I had been searching for days, weeks maybe, for a rumored safe haven. A place where I could start anew, free from the constant threat of being devoured.
+
+I quickened my pace, my heart racing with every snap of a twig or creak of a tree branch. I had to be careful. The Reanimate were attracted to noise, and I didn't want to become their next meal.
+
+**Sprint** (0.25 miles, 5 mph)
+
+As I crested a small hill, I spotted a horde of zombies shambling towards me. My heart racing, I sprinted down the other side, my feet pounding the earth. I could hear their guttural moans growing louder, and I knew I had to keep moving.
+
+I reached the bottom of the hill and turned a sharp corner, my eyes scanning the horizon for any sign of safety. That's when I saw it - a dilapidated gas station, its sign creaking in the wind.
+
+**Jog** (0.25 miles, 2.5 mph)
+
+I slowed to a jog, my breathing heavy, as I approached the gas station. I could hear the zombies closing in, their footsteps echoing off the buildings. I burst through the door, slamming it shut behind me, and leaned against it to catch my breath.
+
+The gas station was a mess, but it looked like it hadn't been looted yet. I spotted a small office in the back, and I made my way towards it. Inside, I found a cache of supplies - food, water, and a first-aid kit.
+
+**Break** (0.1 miles, walking pace)
+
+I took a moment to rest, eating a energy bar and drinking some water. I knew I couldn't stay here for long, but for now, it was a safe haven.
+
+As I sat there, I heard the distant rumble of engines. I froze, my heart racing. Was it a rescue team? Or something worse?
+
+**Sprint
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
