@@ -1,0 +1,30 @@
+Prompt: Embark on an action-packed adventure inspired by Indiana Jones, set in the heart of a dense, mysterious jungle. The protagonist, a daring archaeologist, must navigate treacherous terrain, evade deadly traps, and outwit a cunning rival in the quest for an ancient artifact. The story should include intense sprinting segments as the protagonist narrowly escapes landslides and dodges deadly traps, steady jogs while following hidden paths marked by ancient symbols, moments of high-speed chases through jungle underbrush with the rival treasure hunter hot on their heels, and brief periods of rest in hidden safe spots to catch their breath before the next challenge.
+Distance: 1 mile
+Training Style: Interval Sprints (alternating between short, high-intensity sprints and walking or jogging recovery periods)
+Words/Token: 1500
+
+Distance: 5 miles
+Training Style: Tempo Walk (maintaining a brisk walking pace to build stamina and endurance over a moderate distance)
+Words/Token: 3000
+
+Distance: 13 miles
+Training Style: Half Marathon (maintaining a consistent running speed with occasional short walking breaks)
+Words/Token: 10000
+
+Prompt: Dive into a spine-chilling zombie horror story set in a post-apocalyptic world. The protagonist, a lone survivor, must navigate through abandoned cities, desolate countryside, and eerie forests to find a rumored safe haven. The story should include heart-pounding sprinting segments as the protagonist flees from hordes of ravenous zombies, tense jogs through darkened streets and overgrown paths, moments of high-speed chases as the protagonist outmaneuvers faster, mutated zombies, and brief periods of rest in hidden shelters to recover and plan the next move, all while maintaining a constant sense of suspense and urgency.
+Distance: 2 miles
+Training Style: Interval Training (alternating between walking and running)
+Words/Token: 2250
+
+
+Distance: 10 miles
+Training Style: Endurance Walk (focusing on maintaining a steady pace over a longer distance)
+Words/Token: 7500
+
+
+Distance: 26 miles
+Training Style: Ultramarathon Preparation (includes long, slow runs and walk breaks to build endurance)
+Words/Token: 15000 
+
+
+
