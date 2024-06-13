@@ -1,10 +1,10 @@
 # Natural_Language_Assignment
 
-# Our Project Name `<TBD>`
+# Runner Story Generator
 
 ## Overview
 
-This project is blah...
+This project is 
 
 ## Models:
 

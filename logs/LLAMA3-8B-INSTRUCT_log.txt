@@ -1,0 +1,46 @@
+--------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 2000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Response:
+ **Story: "The Lost City of the Jungle"**
+
+You are Dr. Maria Rodriguez, a renowned archaeologist on a mission to uncover the secrets of the ancient Lost City deep in the jungle. As you venture deeper into the dense foliage, you stumble upon a hidden path marked by ancient symbols. You follow the path, your heart racing with excitement and a hint of trepidation.
+
+**Cue: Sprint for 0.2 miles**
+
+You dash through the underbrush, the sounds of the jungle growing louder as you navigate the treacherous terrain. Suddenly, the ground gives way beneath your feet, and you find yourself sliding down a steep embankment. You manage to regain your footing, but the adrenaline rush has you moving at a frantic pace.
+
+As you catch your breath, you notice a rival treasure hunter, Dr. Leonardo, hot on your heels. You know you need to put some distance between you and him.
+
+**Cue: Sprint for 0.15 miles**
+
+You burst through the underbrush, the sounds of the jungle growing louder as you narrowly avoid deadly traps and dodges low-hanging vines. Dr. Leonardo is closing in, and you know you need to think fast.
+
+You spot a clearing up ahead and make a beeline for it. As you enter the clearing, you notice a hidden safe spot, partially hidden by the foliage. You take a moment to catch your breath and assess your surroundings.
+
+**Cue: Walk for 0.1 miles**
+
+As you rest, you notice a series of ancient symbols etched into the trees. You recognize them as a map, leading to the Lost City. You take a moment to study the symbols, committing them to memory.
+
+Suddenly, you hear the sound of rushing water. You look up to see a massive landslide barreling down the mountain, threatening to engulf you. You know you need to move fast.
+
+**Cue: Sprint for 0.2 miles**
+
+You dash through the underbrush, the landslide mere feet behind you. You manage to outrun it, but not without getting soaked to the bone. You take a moment to catch your breath, shivering in the cool jungle air.
+
+As you continue on your quest, you notice Dr. Leonardo closing in once more. You know you need to put some distance between you and him.
+
+**Cue: Sprint for 0.15 miles**
+
+You burst through the underbrush, the sounds of the jungle growing louder as you narrowly avoid deadly traps and dodges low-hanging vines. Dr. Leonardo is hot on your heels, but you manage to stay ahead.
+
+As you near the end of your journey, you spot the entrance to the Lost City. You sprint towards it, the rival treasure hunter mere feet behind.
+
+**Cue: Sprint to the finish**
+
+You burst through the entrance, exhausted but triumphant. You've reached the Lost City, and the secrets it holds are within your grasp.
+
+[DONE]
+--------------------------------------------------
+
+
