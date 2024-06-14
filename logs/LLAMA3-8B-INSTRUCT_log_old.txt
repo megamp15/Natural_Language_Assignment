@@ -1,0 +1,193 @@
+--------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 2000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Input:
+
+Prompt: Dive into a spine-chilling zombie horror story set in a post-apocalyptic world. The protagonist, a lone survivor, must navigate through abandoned cities, desolate countryside, and eerie forests to find a rumored safe haven. The story should include heart-pounding sprinting segments as the protagonist flees from hordes of ravenous zombies, tense jogs through darkened streets and overgrown paths, moments of high-speed chases as the protagonist outmaneuvers faster, mutated zombies, and brief periods of rest in hidden shelters to recover and plan the next move, all while maintaining a constant sense of suspense and urgency.
+Distance: 2 miles
+Average Walking Speed: 3 mph
+Average Running Speed: 6 mph
+Training Style: Interval Training (alternating between walking and running)
+
+Response:
+ **Story: "The Desolate Journey"**
+
+You're a lone survivor in a post-apocalyptic world, where the undead roam free. You've heard rumors of a safe haven, but it's a long way off, and the journey will be treacherous. You're standing at the edge of a desolate city, the only sound being the distant moans of the zombies.
+
+You start your journey, your heart racing with every step. You're not sure what lies ahead, but you know you need to keep moving. You begin to walk, your feet crunching on the gravelly streets.
+
+**Cue: Walk for 0.5 miles**
+
+As you walk, you notice the city is eerily quiet. The buildings are crumbling, and the streets are littered with debris. You see a few zombies shambling in the distance, but they seem to be moving slowly. You quicken your pace, your senses on high alert.
+
+Suddenly, you hear a loud rumbling noise. You look up to see a horde of zombies emerging from the shadows. They're fast, and they're closing in. You need to move, and fast.
+
+**Cue: Sprint to 6 mph**
+
+You burst into a sprint, your feet pounding the pavement as you try to outrun the zombies. You can hear their groans and moans getting closer, and you know you need to keep going. You're not sure how much longer you can sustain this pace, but you know you can't stop.
+
+As you run, you notice the zombies are getting closer. You can see their twisted faces, their eyes fixed on you with an unnatural hunger. You push yourself to run even faster, your lungs burning with exhaustion.
+
+**Cue: Sprint for 0.3 miles**
+
+You finally manage to lose the zombies in a maze of alleys and side streets. You slow down to a jog, your chest heaving with exhaustion. You need to catch your breath and plan your next move.
+
+As you jog, you notice the streets are getting darker. The sun is setting, and the shadows are growing long. You know you need to find shelter soon.
+
+**Cue: Walk for 0.2 miles**
+
+You spot a small building in the distance, partially hidden by a row of trees. You make your way towards it, your senses on high alert. You enter the building, finding a small room with a door that locks. You take a moment to catch your breath and plan your next move.
+
+As you rest, you hear the distant moans of the zombies. You know they'll be back, and you need to be ready. You take a few deep breaths, steeling yourself for the journey ahead.
+
+**Cue: Sprint to 6 mph**
+
+You exit the building, ready to face whatever lies ahead. You're not sure what dangers await you, but you know you need to keep moving. You burst into a sprint, your feet pounding the pavement as you head into the unknown.
+
+You continue your journey, alternating between walking and sprinting, always staying one step ahead of the zombies. You're not sure what the future holds, but you know you'll keep moving until you find that safe haven.
+
+[DONE]
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 2000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Response:
+ Here's a spine-chilling zombie horror story set in a post-apocalyptic world for an 8-mile training session with an endurance walk training style.
+
+**Story: "The Last Hope"**
+
+You're a lone survivor of a zombie outbreak that has ravaged the world. You've been walking for days, searching for a rumored safe haven. The landscape around you is desolate, with abandoned cities, desolate countryside, and eerie forests stretching out in every direction.
+
+As you walk, you notice the silence is oppressive. The only sounds are the crunch of gravel beneath your feet and the distant moans of the undead. You quicken your pace, your heart pounding in your chest.
+
+**Cue: Maintain a steady pace at 2.5 mph**
+
+You've been walking for hours, and the sun is starting to set. You're getting tired, but you know you can't stop now. You push on, your eyes scanning the horizon for any sign of danger.
+
+As the darkness deepens, you notice the shadows seem to move of their own accord. You shiver, despite the warmth of the evening. You're not sure what's out there, but you know you need to keep moving.
+
+**Cue: Maintain a steady pace at 2.5 mph**
+
+You've been walking for what feels like an eternity. Your legs ache, and your feet are blistered. But you know you're getting close to your destination. You can feel it.
+
+Suddenly, you hear a faint noise in the distance. It's hard to make out, but it sounds like... running. Your heart skips a beat as you realize you're not alone.
+
+**Cue: Sprint to 4.5 mph**
+
+You take off at a sprint, your legs pumping furiously as you try to outrun the unknown threat. The darkness closes in around you, and you can't see a thing. But you keep running, your senses on high alert.
+
+You manage to put some distance between yourself and the pursuer, but you know you can't keep this up for long. You slow to a jog, your chest heaving with exertion.
+
+**Cue: Jog at 3.5 mph**
+
+You continue on, your eyes scanning the darkness for any sign of danger. You're not sure what's out there, but you know you need to be ready.
+
+As you round a bend in the road, you see a faint light in the distance. It's a small shelter, partially hidden by overgrown bushes. You sprint towards it, your heart pounding in your chest.
+
+**Cue: Sprint to 4.5 mph**
+
+You burst through the door, slamming it shut behind you. You lean against it, panting, as you try to catch your breath. You're safe... for now.
+
+You take a moment to rest, your eyes adjusting to the dim light inside the shelter. You can hear the distant moans of the undead, but you know you're safe for the moment.
+
+**Cue: Walk at 2.5 mph**
+
+You take a deep breath, steeling yourself for the journey ahead. You know you can't stay here forever. You need to keep moving, to find that safe haven.
+
+You push on, your footsteps echoing through the deserted landscape. You're not sure what's waiting for you out there, but you know you'll face it head-on.
+
+[CONTINUE]
+--------------------------------------------------
+
+
+--------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 2000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Response:
+ Here is the continued story:
+
+You push on, your footsteps echoing through the deserted landscape. You're not sure what's waiting for you out there, but you know you'll face it head-on. The darkness seems to press in around you, but you keep moving, your eyes fixed on the horizon.
+
+**Cue: Maintain a steady pace at 2.5 mph**
+
+As you walk, you notice the silence is oppressive. The only sounds are the crunch of gravel beneath your feet and the distant moans of the undead. You quicken your pace, your heart pounding in your chest.
+
+**Cue: Sprint to 4.5 mph**
+
+You hear a faint noise behind you, and you spin around, your heart racing. A group of zombies is shambling towards you, their eyes fixed on you with an unnatural hunger. You take off at a sprint, your legs pumping furiously as you try to outrun them.
+
+You manage to put some distance between yourself and the zombies, but you know you can't keep this up for long. You slow to a jog, your chest heaving with exertion.
+
+**Cue: Jog at 3.5 mph**
+
+You continue on, your eyes scanning the darkness for any sign of danger. You're not sure what's out there, but you know you need to be ready. The landscape stretches out before you, desolate and empty.
+
+As you round a bend in the road, you see a faint light in the distance. It's a small town, partially hidden by overgrown bushes. You sprint towards it, your heart pounding in your chest.
+
+**Cue: Sprint to 4.5 mph**
+
+You burst through the door of the first building you see, slamming it shut behind you. You lean against it, panting, as you try to catch your breath. You're safe... for now.
+
+You take a moment to rest, your eyes adjusting to the dim light inside the building. You can hear the distant moans of the undead, but you know you're safe for the moment.
+
+**Cue: Walk at 2.5 mph**
+
+You take a deep breath, steeling yourself for the journey ahead. You know you can't stay here forever. You need to keep moving, to find that safe haven.
+
+You push on, your footsteps echoing through the deserted streets. You're not sure what's waiting for you out there, but you know you'll face it head-on.
+
+[CONTINUE]
+--------------------------------------------------
+
+
+--------------------------------------------------
+Model Name: LLAMA3-8B-INSTRUCT
+Hyperparameters: {'max_new_tokens': 2000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Response:
+ Here is the continued story:
+
+You push on, your footsteps echoing through the deserted streets. You're not sure what's waiting for you out there, but you know you'll face it head-on. The darkness seems to press in around you, but you keep moving, your eyes fixed on the horizon.
+
+**Cue: Maintain a steady pace at 2.5 mph**
+
+As you walk, you notice the silence is oppressive. The only sounds are the crunch of gravel beneath your feet and the distant moans of the undead. You quicken your pace, your heart pounding in your chest.
+
+**Cue: Sprint to 4.5 mph**
+
+You hear a faint noise behind you, and you spin around, your heart racing. A group of zombies is shambling towards you, their eyes fixed on you with an unnatural hunger. You take off at a sprint, your legs pumping furiously as you try to outrun them.
+
+You manage to put some distance between yourself and the zombies, but you know you can't keep this up for long. You slow to a jog, your chest heaving with exertion.
+
+**Cue: Jog at 3.5 mph**
+
+You continue on, your eyes scanning the darkness for any sign of danger. You're not sure what's out there, but you know you need to be ready. The landscape stretches out before you, desolate and empty.
+
+As you round a bend in the road, you see a faint light in the distance. It's a small town, partially hidden by overgrown bushes. You sprint towards it, your heart pounding in your chest.
+
+**Cue: Sprint to 4.5 mph**
+
+You burst through the door of the first building you see, slamming it shut behind you. You lean against it, panting, as you try to catch your breath. You're safe... for now.
+
+You take a moment to rest, your eyes adjusting to the dim light inside the building. You can hear the distant moans of the undead, but you know you're safe for the moment.
+
+**Cue: Walk at 2.5 mph**
+
+You take a deep breath, steeling yourself for the journey ahead. You know you can't stay here forever. You need to keep moving, to find that safe haven.
+
+You push on, your footsteps echoing through the deserted streets. You're not sure what's waiting for you out there, but you know you'll face it head-on.
+
+You notice a faint light in the distance, and you quicken your pace. As you get closer, you see it's a small church, its doors slightly ajar. You push them open, and step inside, hoping to find some solace and safety within its walls.
+
+**Cue: Maintain a steady pace at 2.5 mph**
+
+You move slowly through the church, your eyes adjusting to the dim light. You notice a few pews are overturned, and there are signs of a struggle. You shiver, despite the warmth of the evening. You're not sure what's waiting for you out here, but you know you need to keep moving.
+
+As you reach the altar, you see a small door hidden behind it. It's slightly ajar, and you can hear a faint noise coming from the other side. You push it open, and step through, hoping to find some answers.
+
+[CONTINUE]
+--------------------------------------------------
+
+
