@@ -2,7 +2,7 @@
 Model Name: LLAMA3-8B-INSTRUCT
 Hyperparameters: {'max_new_tokens': 5000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
 Input:
-Dive into a spine-chilling zombie horror story set in a post-apocalyptic world. The protagonist, a lone survivor, must navigate through abandoned cities, desolate countryside, and eerie forests to find a rumored safe haven. The story should include heart-pounding sprinting segments as the protagonist flees from hordes of ravenous zombies, tense jogs through darkened streets and overgrown paths, moments of high-speed chases as the protagonist outmaneuvers faster, mutated zombies, and brief periods of rest in hidden shelters to recover and plan the next move, all while maintaining a constant sense of suspense and urgency.
+Prompt: Dive into a spine-chilling zombie horror story set in a post-apocalyptic world. The protagonist, a lone survivor, must navigate through abandoned cities, desolate countryside, and eerie forests to find a rumored safe haven. The story should include heart-pounding sprinting segments as the protagonist flees from hordes of ravenous zombies, tense jogs through darkened streets and overgrown paths, moments of high-speed chases as the protagonist outmaneuvers faster, mutated zombies, and brief periods of rest in hidden shelters to recover and plan the next move, all while maintaining a constant sense of suspense and urgency.
 Distance: 2 miles
 Training Style: Interval Training (alternating between walking and running)
 Words/Token: 2250

@@ -1,0 +1,222 @@
+--------------------------------------------------
+Model Name: LLAMA3_JUDGE
+Hyperparameters: {'max_new_tokens': 1000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Input:
+Here is the first output which starts with the prompt and then the story. \n:
+     
+Prompt: Embark on an action-packed adventure inspired by Indiana Jones, set in the heart of a dense, mysterious jungle. The protagonist, a daring archaeologist, must navigate treacherous terrain, evade deadly traps, and outwit a cunning rival in the quest for an ancient artifact. The story should include intense sprinting segments as the protagonist narrowly escapes landslides and dodges deadly traps, steady jogs while following hidden paths marked by ancient symbols, moments of high-speed chases through jungle underbrush with the rival treasure hunter hot on their heels, and brief periods of rest in hidden safe spots to catch their breath before the next challenge.
+Distance: 5 miles
+Training Style: Tempo Walk (maintaining a brisk walking pace to build stamina and endurance over a moderate distance)
+Words/Token: 3000
+
+ **Story: "The Jungle Quest"**
+
+You're Dr. Maria Rodriguez, a renowned archaeologist, on a mission to uncover the secrets of the ancient jungle. Your team has been searching for weeks, and finally, you've pinpointed the location of the fabled Golden Idol. But you're not the only one after it – your rival, the cunning Dr. Lee, is hot on your heels.
+
+As you venture deeper into the jungle, the dense foliage closes in around you. You push through the underbrush, your eyes scanning the terrain for any sign of the idol. Suddenly, the ground gives way beneath your feet, and you find yourself sliding down a steep embankment.
+
+**Cue: Sprint for 0.5 miles**
+
+You scramble to your feet, your heart racing as you sprint through the jungle. The trees blur together as you dash through the underbrush, dodging low-hanging branches and leaping over roots. You can hear Dr. Lee's shouts and curses as he gives chase.
+
+As you round a bend, you spot a hidden path marked by ancient symbols. You slow to a steady jog, following the path as it winds through the jungle. The air is thick with humidity, and the sounds of the jungle grow louder – birds chirping, monkeys chattering, and the distant roar of a waterfall.
+
+**Cue: Walk for 1.5 miles**
+
+You pause to catch your breath, taking in the sights and sounds of the jungle. The path opens up to a clearing, and you spot a hidden waterfall cascading down a rocky face. You approach cautiously, scanning the area for any signs of danger.
+
+As you rest, you notice a faint humming noise coming from the waterfall. You approach the edge, and a hidden door swings open, revealing a narrow tunnel. You duck inside, the door slamming shut behind you.
+
+**Cue: Sprint for 0.25 miles**
+
+You find yourself in a narrow, winding tunnel, the air thick with dust and the sound of rushing water. You sprint through the tunnel, your heart pounding in your chest. The tunnel opens up to a vast underground chamber, and you spot the Golden Idol perched atop a pedestal.
+
+But Dr. Lee is right behind you, his eyes fixed on the idol. You know you must act fast to claim it. You grab a nearby torch and prepare to defend yourself.
+
+**Cue: Sprint for 0.25 miles**
+
+You make a break for the pedestal, Dr. Lee hot on your heels. You can hear his curses and the sound of his footsteps as you dash through the chamber. You leap over obstacles and dodges deadly traps, your heart racing with excitement.
+
+As you reach the pedestal, you grab the Golden Idol and hold it aloft, triumphant. Dr. Lee skids to a stop, his eyes blazing with anger. You know you must escape before he can catch up.
+
+**Cue: Sprint to the finish**
+
+You make a break for the tunnel, the Golden Idol clutched tightly in your hand. You can hear Dr. Lee's shouts and curses as you sprint through the tunnel, the sound of rushing water growing louder. You burst through the hidden door, the jungle sunlight blinding you.
+
+You've made it out alive, the Golden Idol in hand. But as you look back, you know Dr. Lee will stop at nothing to get it. You must be prepared to face him again.
+
+Response:
+ Rating:
+
+**Prompt (20 points):** The prompt is well-executed, setting the stage for an action-packed adventure story inspired by Indiana Jones. The story incorporates elements of outrunning deadly traps, a chase scene with a rival treasure hunter, and a quest for an ancient artifact. Score: 18/20
+
+**Distance (20 points):** The story accurately reflects the 5-mile distance, with a clear separation between the initial sprint, steady jog, and subsequent sprints. The distance is well-paced, with a good balance between intense sprinting segments and periods of rest. Score: 18/20
+
+**Average Walking Speed (20 points):** The story does not explicitly mention walking speed, but the steady jog segment is consistent with a moderate walking pace. The lack of variation in walking speed detracts from the realism of the training session. Score: 12/20
+
+**Average Running Speed (20 points):** The story accurately reflects the average running speed, with a clear emphasis on speed and intensity during the sprinting segments. The cues for speed changes and breaks are well-integrated into the narrative. Score: 18/20
+
+**Training Style (20 points):** The story accurately reflects the tempo walk training style, with a clear emphasis on maintaining a brisk walking pace to build stamina and endurance over a moderate distance. The cues for speed changes and breaks are well-integrated into the narrative. Score: 19/20
+
+Total score: (18 + 18 + 12 + 18 + 19) / 5 = 16.4/20
+= 82/100
+
+This story is well-written and engaging, with a clear narrative and well-paced action sequences. The distance and training style are accurately reflected, and the cues for speed changes and breaks are well-integrated into the narrative. The only area for improvement is the lack of variation in walking speed. Overall, this story is a strong contender for the best output.
+--------------------------------------------------
+
+
+--------------------------------------------------
+Model Name: LLAMA3_JUDGE
+Hyperparameters: {'max_new_tokens': 1000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Input:
+Here is the first output which starts with the prompt and then the story. \n:
+     
+Prompt: Embark on an action-packed adventure inspired by Indiana Jones, set in the heart of a dense, mysterious jungle. The protagonist, a daring archaeologist, must navigate treacherous terrain, evade deadly traps, and outwit a cunning rival in the quest for an ancient artifact. The story should include intense sprinting segments as the protagonist narrowly escapes landslides and dodges deadly traps, steady jogs while following hidden paths marked by ancient symbols, moments of high-speed chases through jungle underbrush with the rival treasure hunter hot on their heels, and brief periods of rest in hidden safe spots to catch their breath before the next challenge.
+Distance: 1 mile
+Training Style: Interval Sprints (alternating between short, high-intensity sprints and walking or jogging recovery periods)
+Words/Token: 1500
+**Story: "The Lost City of the Jungle"**
+
+You're Dr. Maria Rodriguez, a renowned archaeologist, on a mission to uncover the secrets of the ancient Lost City deep in the jungle. As you venture deeper into the dense foliage, you stumble upon a hidden path marked by ancient symbols. You follow the path, your heart racing with excitement.
+
+**Cue: Sprint for 0.1 miles**
+
+You dash through the underbrush, the sounds of the jungle growing louder. Suddenly, the ground gives way beneath your feet, and you find yourself sliding down a steep slope. You manage to grab a nearby vine and pull yourself to safety just as a massive landslide crashes down behind you.
+
+You take a moment to catch your breath, your eyes scanning the surroundings for any signs of danger. That's when you spot your rival, Dr. Henry Lee, emerging from the jungle, his eyes fixed on you with a calculating gaze.
+
+**Cue: Walk for 0.2 miles**
+
+You quicken your pace, following the hidden path as it winds its way through the dense foliage. The symbols on the path seem to be leading you deeper into the jungle, but you can't shake the feeling that you're being watched.
+
+As you round a bend, you hear the distant rumble of a waterfall. You pick up speed, your heart pounding in your chest. Suddenly, the path opens up to reveal a stunning waterfall, and you see the ancient city looming in the distance.
+
+**Cue: Sprint for 0.2 miles**
+
+You dash towards the city, the sound of Dr. Lee's footsteps growing louder behind you. You can hear the sound of traps being triggered, and you know you need to move fast. You leap over a pit filled with spikes, your heart racing with excitement.
+
+As you near the city, you see a group of ancient statues guarding the entrance. You can hear Dr. Lee's voice, taunting you from behind. You know you need to outwit him if you want to claim the artifact.
+
+**Cue: Sprint for 0.1 miles**
+
+You burst through the entrance, the artifact glinting in the sunlight. But Dr. Lee is hot on your heels, and you know you need to think fast. You use your knowledge of ancient traps to outmaneuver him, leading him into a deadly pit filled with spikes.
+
+You take a moment to catch your breath, the artifact clutched tightly in your hand. You know you've won the day, but you also know that Dr. Lee will be back. You make your way back through the jungle, the sounds of the waterfall growing fainter in the distance.
+
+**Cue: Walk to the finish**
+
+As you emerge from the jungle, you see the bright sunlight and the distant sounds of civilization. You've made it out alive, but you know that the adventure is far from over.
+Response:
+ Rating:
+
+**Prompt (20 points):** The prompt is well-executed, setting the stage for an action-packed adventure story inspired by Indiana Jones. The story incorporates elements of intense sprinting, steady jogging, high-speed chases, and brief periods of rest, all while navigating treacherous terrain and evading deadly traps. Score: 19/20
+
+**Distance (20 points):** The story accurately reflects the 1-mile distance, with clear checkpoints for sprinting, walking, and jogging segments. The cues for speed changes and breaks are well-integrated into the narrative. Score: 20/20
+
+**Average Walking Speed (20 points):** The story does not explicitly mention walking speed, but the narrative suggests a steady jog or walk pace during the recovery periods. Score: 16/20
+
+**Average Running Speed (20 points):** The story accurately reflects the average running speed, with intense sprinting segments and high-speed chases. The cues for speed changes and breaks are well-integrated into the narrative. Score: 18/20
+
+**Training Style (20 points):** The story accurately reflects the interval sprint training style, with alternating segments of high-intensity sprints and walking or jogging recovery periods. The cues for speed changes and breaks are well-integrated into the narrative. Score: 20/20
+
+Total score: (19 + 20 + 16 + 18 + 20) / 5 = 93/100
+--------------------------------------------------
+
+
+
+
+--------------------------------------------------
+Model Name: LLAMA3_JUDGE
+Hyperparameters: {'max_new_tokens': 1000, 'temperature': 0.3, 'top_p': 0.9, 'do_sample': True}
+Input:
+Here is the first output which starts with the prompt and then the story. \n:
+     
+Prompt: Embark on an action-packed adventure inspired by Indiana Jones, set in the heart of a dense, mysterious jungle. The protagonist, a daring archaeologist, must navigate treacherous terrain, evade deadly traps, and outwit a cunning rival in the quest for an ancient artifact. The story should include intense sprinting segments as the protagonist narrowly escapes landslides and dodges deadly traps, steady jogs while following hidden paths marked by ancient symbols, moments of high-speed chases through jungle underbrush with the rival treasure hunter hot on their heels, and brief periods of rest in hidden safe spots to catch their breath before the next challenge.
+Distance: 13 miles
+Training Style: Half Marathon (maintaining a consistent running speed with occasional short walking breaks)
+Words/Token: 10000
+     
+ **Story: "The Lost City of the Jungle"**
+
+You're Dr. Maria Rodriguez, a renowned archaeologist, on a mission to uncover the secrets of the ancient Lost City deep in the jungle. As you venture into the dense foliage, you're aware that you're not alone. Your rival, the cunning treasure hunter, Victor Vex, is hot on your heels, determined to claim the treasure for himself.
+
+You begin your journey, your heart racing with excitement and a hint of fear. You've been warned about the treacherous terrain and deadly traps that lie ahead, but you're determined to reach the Lost City before Victor does.
+
+**Cue: Sprint for 1.5 miles**
+
+You burst through the underbrush, your feet pounding the earth as you make your way through the dense jungle. The sounds of the jungle surround you – the chirping of birds, the rustling of leaves, and the distant roar of a waterfall. You can hear Victor's shouts and curses as he struggles to keep up with you.
+
+As you run, you notice the terrain changing. The jungle is getting thicker, and the air is growing hotter. You can feel the humidity wrapping around you like a damp shroud. Suddenly, the ground gives way beneath your feet, and you find yourself sliding down a steep embankment.
+
+**Cue: Walk for 0.5 miles**
+
+You take a moment to catch your breath, surveying the damage. You're a bit shaken but unharmed. You continue on, your eyes scanning the terrain for any signs of danger. The jungle is eerily quiet, as if the very plants and animals are watching you.
+
+As you walk, you notice a series of ancient symbols etched into the trees. You recognize them as a map, leading you deeper into the jungle. You quicken your pace, your heart racing with excitement.
+
+**Cue: Sprint for 2 miles**
+
+You burst through the underbrush, the symbols leading you to a hidden clearing. In the center of the clearing stands an ancient temple, covered in vines and moss. You can hear Victor's shouts growing louder, and you know he's closing in.
+
+You dash towards the temple, the symbols leading you to a hidden entrance. You slip inside just as Victor bursts into the clearing, his eyes scanning the area for any sign of you.
+
+**Cue: Walk for 1 mile**
+
+You take a moment to catch your breath, your heart still racing from the close call. You examine the ancient artifacts and murals, trying to decipher their secrets. As you walk, you notice a series of hidden passages and chambers, each one leading deeper into the temple.
+
+Suddenly, you hear the sound of rocks falling, and the temple begins to shake. You know you need to get out of there, fast.
+
+**Cue: Sprint for 2 miles**
+
+You dash through the temple, the rocks falling all around you. You can hear Victor's shouts growing fainter, and you know you've left him behind. You burst through the entrance, the jungle air enveloping you like a warm hug.
+
+As you run, you notice the jungle is changing. The trees are growing taller, and the air is growing cooler. You can see the glint of sunlight through the trees, and you know you're getting close to the Lost City.
+
+**Cue: Sprint to the finish**
+
+You burst through the trees, the Lost City spread out before you. You can see the ancient ruins, the crumbling temples, and the mysterious artifacts. You've done it – you've reached the Lost City before Victor.
+
+As you stand there, panting and exhausted, you know that this is just the beginning. You've uncovered the secrets of the Lost City, but you know that Victor will stop at nothing to claim the treasure for himself. You take a moment to catch your breath, your eyes scanning the ruins for any sign of Victor. Suddenly, you hear a faint noise coming from the temple complex. You draw your gun, ready for a fight.
+
+**Cue: Sprint for 1.5 miles**
+
+You dash towards the noise, your heart racing with anticipation. As you approach the temple, you see Victor emerging from the shadows, a sly grin spreading across his face. You know you have to act fast.
+
+You burst into the temple, your gun drawn. Victor is hot on your heels, his eyes fixed on the treasure. You can hear the sound of rocks falling, and the temple begins to shake. You know you have to get out of there, fast.
+
+**Cue: Walk for 0.5 miles**
+
+You take a moment to catch your breath, your eyes scanning the temple for any sign of danger. You notice a series of ancient symbols etched into the walls, leading you to a hidden chamber. You dash towards the symbols, Victor close behind.
+
+As you enter the chamber, you see the treasure spread out before you. Gold and jewels glint in the dim light, and you know that this is what Victor has been searching for. You can hear him panting behind you, his eyes fixed on the treasure.
+
+**Cue: Sprint for 1 mile**
+
+You dash towards the treasure, your heart racing with excitement. You can hear Victor's shouts growing louder, and you know he's closing in. You grab the treasure and make a run for it, the temple shaking and crumbling around you.
+
+As you burst out of the temple, you see Victor emerging from the shadows, his eyes fixed on the treasure. You know you have to get away, fast.
+
+**Cue: Sprint to the finish**
+
+You dash through the jungle, the treasure clutched in your hand. You can hear Victor's shouts growing fainter, and you know you've left him behind. You burst through the trees, the sunlight enveloping you like a warm hug.
+
+You've done it – you've uncovered the secrets of the Lost City and claimed the treasure. But you know that Victor will stop at nothing to get it back. You've got to get back to civilization, and fast.
+Response:
+ Rating:
+
+**Prompt (20 points):** The prompt is well-executed, setting the stage for an action-packed adventure story inspired by Indiana Jones. The story incorporates elements of outrunning deadly traps, a chase scene with a rival treasure hunter, and a quest for an ancient artifact. Score: 18/20
+
+**Distance (20 points):** The story accurately reflects the 13-mile distance, with a mix of sprinting, walking, and jogging segments. The cues for speed changes and breaks are well-integrated into the narrative. Score: 19/20
+
+**Average Walking Speed (20 points):** The story does not explicitly mention walking speed, but the narrative includes moments of steady jogging and brief periods of rest, which suggests a walking speed of around 2-3 mph. Score: 16/20
+
+**Average Running Speed (20 points):** The story accurately reflects the average running speed, with a mix of sprinting and jogging segments. The cues for speed changes and breaks are well-integrated into the narrative. Score: 18/20
+
+**Training Style (20 points):** The story accurately reflects the half-marathon training style, with a mix of sprinting, walking, and jogging segments. The cues for speed changes and breaks are well-integrated into the narrative. Score: 19/20
+
+Total score: (18 + 19 + 16 + 18 + 19) / 5 = 90/100
+
+This story is well-written, engaging, and accurately reflects the criteria. The prompts are creative and immersive, and the narrative is well-paced and exciting. The cues for speed changes and breaks are well-integrated into the story, making it easy for the user to follow along. Overall, this story is an excellent example of a well-crafted fitness story.
+--------------------------------------------------
+
+
